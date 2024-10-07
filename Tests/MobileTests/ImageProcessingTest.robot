@@ -4,20 +4,20 @@ Library    BuiltIn
 
 *** Variables ***
 ${IMAGE_PATH}         C:\\Users\\USER\\PycharmProjects\\ImageprocessingRobot\\Resources\\screenshots\\RS7.jpg
-${IMAGE_PATH_AI}         C:\\Users\\USER\\PycharmProjects\\ImageprocessingRobot\\Resources\\screenshots\\WhatsApp Image 2024-08-18 at 13.37.17_739a294a.jpg
+${IMAGE_PATH_AI}         C:\\Users\\USER\\PycharmProjects\\ImageprocessingRobot\\Resources\\screenshots\\RS7.jpg
 
 ${SCREENSHOT_PATH}    C:\\Users\\USER\\PycharmProjects\\ImageprocessingRobot\\Resources\\screenshots\\screenshot.jpg  # Update this path to where you want to save screenshots
 
 *** Test Cases ***
 Extract Text en From Image
     ${ocr}=    Evaluate    ocr_library.OCRLibrary()    modules=ocr_library
-    ${result}=    Call Method    ${ocr}    extract_all_en_text    ${IMAGE_PATH}
+    ${result}=    Call Method    ${ocr}    extract_all_en_text    ${IMAGE_PATH_AI}
     Log    Extracted Text: ${result}
 
 
 Extract Specific en Text From Image
     ${ocr}=    Evaluate    ocr_library.OCRLibrary()    modules=ocr_library
-    ${result}=    Call Method    ${ocr}    extract_specific_en_text    ${IMAGE_PATH}
+    ${result}=    Call Method    ${ocr}    extract_specific_en_text    ${IMAGE_PATH_AI}
     Log    Extracted Text: ${result}
     Should Contain    ${result}    RS  # Assert only if RS is expected in the English text
 

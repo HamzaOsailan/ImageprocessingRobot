@@ -14,6 +14,7 @@ class OCRLibrary:
         # self.reader_en = easyocr.Reader(['en'], gpu=True)  # Enable GPU if available for better performance
         self.reader_ar = easyocr.Reader(['ar'], gpu=True)
 
+    @keyword
     def extract_all_ar_text(self, image_path):
         """Extract Arabic text from the given image."""
         # Load the image

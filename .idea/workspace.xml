@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f786deea-097e-4cb0-a4ee-f864e261bb05" name="Changes" comment="v1" />
+    <list default="true" id="f786deea-097e-4cb0-a4ee-f864e261bb05" name="Changes" comment="v1">
+      <change beforePath="$PROJECT_DIR$/Resources/Variables/variables.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Variables/variables.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/locators/locators.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/locators/locators.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/MobileTests/ImageProcessingTest.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/MobileTests/ImageProcessingTest.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/MobileTests/ocr_library.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/MobileTests/ocr_library.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,18 +23,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "HamzaOsailan"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HamzaOsailan&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/HamzaOsailan/ImageProccessing-python.git",
-    "accountId": "a7eff10c-cbb6-4871-a056-1f7ff1bc78c0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HamzaOsailan/ImageProccessing-python.git&quot;,
+    &quot;accountId&quot;: &quot;a7eff10c-cbb6-4871-a056-1f7ff1bc78c0&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -57,9 +62,9 @@
     "Robot Framework.run [Test OCR Library Initialization].executor": "Run",
     "Robot Framework.run current file.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Task5",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/USER/PycharmProjects/ImageprocessingRobot",
+    "last_opened_file_path": "C:/Users/USER/PycharmProjects/ImageprocessingRobot/shelved.patch",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -188,9 +193,9 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.ocr_library1" />
       <item itemvalue="Python.ocr_library" />
       <item itemvalue="Python.ocr_libraryz" />
-      <item itemvalue="Python.ocr_library1" />
     </list>
     <recent_temporary>
       <list>

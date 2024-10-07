@@ -78,7 +78,6 @@ ${ScrollDown}    //android.view.View[@text="Getting Started"]
 
 
 #SwagLabs locators
-
 ${SwagEmail}             xpath=//android.widget.EditText[@content-desc="test-Username"]
 ${SwagPassword}          xpath=//android.widget.EditText[@content-desc="test-Password"]
 ${SwagLogin}             xpath=//android.view.ViewGroup[@content-desc="test-LOGIN"]
