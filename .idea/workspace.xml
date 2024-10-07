@@ -18,18 +18,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "HamzaOsailan"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HamzaOsailan&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/HamzaOsailan/ImageProccessing-python.git",
-    "accountId": "a7eff10c-cbb6-4871-a056-1f7ff1bc78c0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HamzaOsailan/ImageProccessing-python.git&quot;,
+    &quot;accountId&quot;: &quot;a7eff10c-cbb6-4871-a056-1f7ff1bc78c0&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -39,30 +39,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Unnamed.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.ocr_library (1).executor": "Run",
-    "Python.ocr_library.executor": "Run",
-    "Python.ocr_library.py.executor": "Run",
-    "Python.ocr_library1 (1).executor": "Run",
-    "Python.ocr_library1.executor": "Run",
-    "Python.ocr_libraryz.executor": "Run",
-    "Robot Framework.run [Extract Specific ar Text From Image].executor": "Run",
-    "Robot Framework.run [Extract Specific en Text From Image].executor": "Run",
-    "Robot Framework.run [Extract Text en From Image].executor": "Run",
-    "Robot Framework.run [Extract Text from Image].executor": "Run",
-    "Robot Framework.run [Extract ar Text From Image].executor": "Run",
-    "Robot Framework.run [Test OCR Library Initialization].executor": "Run",
-    "Robot Framework.run current file.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/USER/PycharmProjects/ImageprocessingRobot",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ocr_library (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.ocr_library.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ocr_library.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ocr_library1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.ocr_library1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ocr_libraryz.executor&quot;: &quot;Run&quot;,
+    &quot;Robot Framework.run [Extract Specific ar Text From Image].executor&quot;: &quot;Run&quot;,
+    &quot;Robot Framework.run [Extract Specific en Text From Image].executor&quot;: &quot;Run&quot;,
+    &quot;Robot Framework.run [Extract Text en From Image].executor&quot;: &quot;Run&quot;,
+    &quot;Robot Framework.run [Extract Text from Image].executor&quot;: &quot;Run&quot;,
+    &quot;Robot Framework.run [Extract ar Text From Image].executor&quot;: &quot;Run&quot;,
+    &quot;Robot Framework.run [Test OCR Library Initialization].executor&quot;: &quot;Run&quot;,
+    &quot;Robot Framework.run current file.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/PycharmProjects/ImageprocessingRobot&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\USER\PycharmProjects\ImageprocessingRobot" />
@@ -188,9 +188,9 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.ocr_library1" />
       <item itemvalue="Python.ocr_library" />
       <item itemvalue="Python.ocr_libraryz" />
-      <item itemvalue="Python.ocr_library1" />
     </list>
     <recent_temporary>
       <list>
