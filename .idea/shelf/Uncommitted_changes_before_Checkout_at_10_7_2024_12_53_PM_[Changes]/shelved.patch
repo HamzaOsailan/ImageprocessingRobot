@@ -1,0 +1,632 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"f786deea-097e-4cb0-a4ee-f864e261bb05\" name=\"Changes\" comment=\"v1\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"Task5\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"HamzaOsailan\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/HamzaOsailan/ImageProccessing-python.git\",\r\n    \"accountId\": \"a7eff10c-cbb6-4871-a056-1f7ff1bc78c0\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 4\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2msJj2S8fzs0zSiUZC42R6GN8HQ\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.Unnamed.executor\": \"Run\",\r\n    \"Python.main.executor\": \"Run\",\r\n    \"Python.ocr_library (1).executor\": \"Run\",\r\n    \"Python.ocr_library.executor\": \"Run\",\r\n    \"Python.ocr_library.py.executor\": \"Run\",\r\n    \"Python.ocr_library1 (1).executor\": \"Run\",\r\n    \"Python.ocr_library1.executor\": \"Run\",\r\n    \"Python.ocr_libraryz.executor\": \"Run\",\r\n    \"Robot Framework.run [Extract Specific ar Text From Image].executor\": \"Run\",\r\n    \"Robot Framework.run [Extract Specific en Text From Image].executor\": \"Run\",\r\n    \"Robot Framework.run [Extract Text en From Image].executor\": \"Run\",\r\n    \"Robot Framework.run [Extract Text from Image].executor\": \"Run\",\r\n    \"Robot Framework.run [Extract ar Text From Image].executor\": \"Run\",\r\n    \"Robot Framework.run [Test OCR Library Initialization].executor\": \"Run\",\r\n    \"Robot Framework.run current file.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/USER/PycharmProjects/ImageprocessingRobot\",\r\n    \"settings.editor.selected.configurable\": \"preferences.pluginManager\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\USER\\PycharmProjects\\ImageprocessingRobot\" />\r\n      <recent name=\"C:\\Users\\USER\\PycharmProjects\\ImageprocessingRobot\\Resources\\Keywords\" />\r\n      <recent name=\"C:\\Users\\USER\\PycharmProjects\\ImageprocessingRobot\\Resources\\locators\" />\r\n      <recent name=\"C:\\Users\\USER\\PycharmProjects\\ImageprocessingRobot\\Resources\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\USER\\PycharmProjects\\ImageprocessingRobot\\Resources\\screenshots\" />\r\n      <recent name=\"C:\\Users\\USER\\PycharmProjects\\ImageprocessingRobot\\Tests\\MobileTests\" />\r\n      <recent name=\"C:\\Users\\USER\\PycharmProjects\\ImageprocessingRobot\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Python.ocr_library\">\r\n    <configuration name=\"ocr_library\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"ImageprocessingRobot\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Tests/MobileTests/ocr_library.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"ocr_library1\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"ImageprocessingRobot\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"C:\\Users\\USER\\PycharmProjects\\ImageprocessingRobot\\ocr_library1.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"ocr_library\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"ImageprocessingRobot\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"C:\\Users\\USER\\PycharmProjects\\ImageprocessingRobot\\Tests\\MobileTests\\ocr_library.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"ocr_library\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"ImageprocessingRobot\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"C:\\Users\\USER\\PycharmProjects\\ImageprocessingRobot\\ocr_library.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"ocr_libraryz\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\">\r\n      <module name=\"ImageprocessingRobot\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Tests/MobileTests/ocr_library.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <list>\r\n      <item itemvalue=\"Python.ocr_library\" />\r\n      <item itemvalue=\"Python.ocr_libraryz\" />\r\n      <item itemvalue=\"Python.ocr_library1\" />\r\n    </list>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.ocr_library1\" />\r\n        <item itemvalue=\"Python.ocr_libraryz\" />\r\n        <item itemvalue=\"Python.ocr_library\" />\r\n        <item itemvalue=\"Python.ocr_library1\" />\r\n        <item itemvalue=\"Python.ocr_libraryz\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"f786deea-097e-4cb0-a4ee-f864e261bb05\" name=\"Changes\" comment=\"\" />\r\n      <created>1727859481582</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1727859481582</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"v1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1727958254742</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1727958254742</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"v1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1727958524778</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1727958524778</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"v1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1727958673634</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1727958673634</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"v1\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"v1\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 5bcff67f294a08a5543c0841a281160eea579154)
++++ b/.idea/workspace.xml	(date 1727960095729)
+@@ -4,7 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="f786deea-097e-4cb0-a4ee-f864e261bb05" name="Changes" comment="v1" />
++    <list default="true" id="f786deea-097e-4cb0-a4ee-f864e261bb05" name="Changes" comment="v2">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -13,7 +15,7 @@
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="Task5" />
++        <entry key="$PROJECT_DIR$" value="master" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -57,7 +59,7 @@
+     "Robot Framework.run [Test OCR Library Initialization].executor": "Run",
+     "Robot Framework.run current file.executor": "Run",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "master",
++    "git-widget-placeholder": "Task5",
+     "ignore.virus.scanning.warn.message": "true",
+     "last_opened_file_path": "C:/Users/USER/PycharmProjects/ImageprocessingRobot",
+     "settings.editor.selected.configurable": "preferences.pluginManager"
+@@ -242,11 +244,20 @@
+       <option name="project" value="LOCAL" />
+       <updated>1727958673634</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="v2">
++      <option name="closed" value="true" />
++      <created>1727959469072</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1727959469072</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="v1" />
+-    <option name="LAST_COMMIT_MESSAGE" value="v1" />
++    <MESSAGE value="v2" />
++    <option name="LAST_COMMIT_MESSAGE" value="v2" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: Tests/MobileTests/ImageProcessingTest.robot
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>*** Settings ***\r\nLibrary    ocr_library.py\r\nLibrary    BuiltIn\r\n\r\n*** Variables ***\r\n${IMAGE_PATH}         C:\\\\Users\\\\USER\\\\PycharmProjects\\\\ImageprocessingRobot\\\\Resources\\\\screenshots\\\\RS7.jpg\r\n${IMAGE_PATH_AI}         C:\\\\Users\\\\USER\\\\PycharmProjects\\\\ImageprocessingRobot\\\\Resources\\\\screenshots\\\\WhatsApp Image 2024-08-18 at 13.37.17_739a294a.jpg\r\n\r\n${SCREENSHOT_PATH}    C:\\\\Users\\\\USER\\\\PycharmProjects\\\\ImageprocessingRobot\\\\Resources\\\\screenshots\\\\screenshot.jpg  # Update this path to where you want to save screenshots\r\n\r\n*** Test Cases ***\r\nExtract Text en From Image\r\n    ${ocr}=    Evaluate    ocr_library.OCRLibrary()    modules=ocr_library\r\n    ${result}=    Call Method    ${ocr}    extract_all_en_text    ${IMAGE_PATH}\r\n    Log    Extracted Text: ${result}\r\n\r\n\r\nExtract Specific en Text From Image\r\n    ${ocr}=    Evaluate    ocr_library.OCRLibrary()    modules=ocr_library\r\n    ${result}=    Call Method    ${ocr}    extract_specific_en_text    ${IMAGE_PATH}\r\n    Log    Extracted Text: ${result}\r\n    Should Contain    ${result}    RS  # Assert only if RS is expected in the English text\r\n\r\nExtract ar Text From Image\r\n    ${ocr}=    Evaluate    ocr_library.OCRLibrary()    modules=ocr_library\r\n    ${result}=    Call Method   ${ocr}    extract_all_ar_text    ${IMAGE_PATH_AI}\r\n    Log    Extracted Text: ${result}\r\n\r\nExtract Specific ar Text From Image\r\n    ${ocr}=    Evaluate    ocr_library.OCRLibrary()    modules=ocr_library\r\n    ${result}=    Call Method    ${ocr}    extract_specific_ar_text    ${IMAGE_PATH_AI}\r\n    Log    Extracted Text: ${result}\r\n    Should Contain    ${result}  الذكاء  # Assert with expected Arabic text\r\n\r\nLive Image Processing\r\n    ${ocr}=    Evaluate    ocr_library.OCRLibrary()    modules=ocr_library\r\n    ${result}=    Call Method    ${ocr}    live_image_processing\r\n    Log    Extracted Text: ${result}\r\n\r\nTake Screenshot And Process Image\r\n    [Documentation]    Takes a screenshot of the current application page and processes the image for text extraction.\r\n    ${ocr}=    Evaluate    ocr_library.OCRLibrary()    modules=ocr_library\r\n    ${result}=    Call Method    ${ocr}    take_screenshot_image_processing    ${SCREENSHOT_PATH}\r\n    Log    Extracted Text from Screenshot: ${result}\r\n    # Optionally, assert expected content\r\n##    Should Contain    ${result}    RS\r\n\r\n\r\n\r\n\r\n\r\n#Live Image Processing\r\n#    ${ocr}=    Create Instance    ocr_library.OCRLibrary\r\n#    ${result}=    Call Method    ${ocr}    live_image_processing\r\n#    Log    Extracted Text from Live Feed: ${result}\r\n#\r\n#Take Screenshot and Extract Text\r\n#    ${ocr}=    Create Instance    ocr_library.OCRLibrary\r\n#    ${result}=    Call Method    ${ocr}    take_screenshot_image_processing    ${SCREENSHOT_PATH}\r\n#    Log    Extracted Text from Screenshot: ${result}\r\n\r\n\r\n#Extract Arabic Text from Image\r\n#    [Documentation]  Test extracting Arabic text from an image.\r\n#    ${arabic_text}=    Extract Arabic Text    ${IMAGE_PATH}\r\n#    Log    Extracted Arabic Text: ${arabic_text}\r\n\r\n\r\n#Live Image Processing\r\n#    [Documentation]  Process a live image for text extraction.\r\n#    ${live_image}=    Get Live Image  # Implement this logic based on your requirements\r\n#    ${live_text}=    Live Image Processing Without Save    ${live_image}\r\n#    Log    Live Extracted Text: ${live_text}\r\n#\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Tests/MobileTests/ImageProcessingTest.robot b/Tests/MobileTests/ImageProcessingTest.robot
+--- a/Tests/MobileTests/ImageProcessingTest.robot	(revision 5bcff67f294a08a5543c0841a281160eea579154)
++++ b/Tests/MobileTests/ImageProcessingTest.robot	(date 1728293421154)
+@@ -4,20 +4,20 @@
+ 
+ *** Variables ***
+ ${IMAGE_PATH}         C:\\Users\\USER\\PycharmProjects\\ImageprocessingRobot\\Resources\\screenshots\\RS7.jpg
+-${IMAGE_PATH_AI}         C:\\Users\\USER\\PycharmProjects\\ImageprocessingRobot\\Resources\\screenshots\\WhatsApp Image 2024-08-18 at 13.37.17_739a294a.jpg
++${IMAGE_PATH_AI}         C:\\Users\\USER\\PycharmProjects\\ImageprocessingRobot\\Resources\\screenshots\\RS7.jpg
+ 
+ ${SCREENSHOT_PATH}    C:\\Users\\USER\\PycharmProjects\\ImageprocessingRobot\\Resources\\screenshots\\screenshot.jpg  # Update this path to where you want to save screenshots
+ 
+ *** Test Cases ***
+ Extract Text en From Image
+     ${ocr}=    Evaluate    ocr_library.OCRLibrary()    modules=ocr_library
+-    ${result}=    Call Method    ${ocr}    extract_all_en_text    ${IMAGE_PATH}
++    ${result}=    Call Method    ${ocr}    extract_all_en_text    ${IMAGE_PATH_AI}
+     Log    Extracted Text: ${result}
+ 
+ 
+ Extract Specific en Text From Image
+     ${ocr}=    Evaluate    ocr_library.OCRLibrary()    modules=ocr_library
+-    ${result}=    Call Method    ${ocr}    extract_specific_en_text    ${IMAGE_PATH}
++    ${result}=    Call Method    ${ocr}    extract_specific_en_text    ${IMAGE_PATH_AI}
+     Log    Extracted Text: ${result}
+     Should Contain    ${result}    RS  # Assert only if RS is expected in the English text
+ 
+Index: Tests/MobileTests/ocr_library.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import logging\r\n\r\nimport cv2\r\nimport easyocr\r\nimport time\r\nimport numpy as np\r\nfrom robot.api.deco import keyword\r\n\r\n\r\nclass OCRLibrary:\r\n    def __init__(self):\r\n        print(\"Initializing OCR Library with updated settings.\")  # Debug statement\r\n        # Initialize EasyOCR for English and Arabic\r\n        # self.reader_en = easyocr.Reader(['en'], gpu=True)  # Enable GPU if available for better performance\r\n        self.reader_ar = easyocr.Reader(['ar'], gpu=True)\r\n\r\n    def extract_all_ar_text(self, image_path):\r\n        \"\"\"Extract Arabic text from the given image.\"\"\"\r\n        # Load the image\r\n        img = cv2.imread(image_path)\r\n        if img is None:\r\n            logging.error(f\"Could not open or find the image: {image_path}\")\r\n            return None\r\n\r\n        # Preprocess the image\r\n        processed_img = self.preprocess_image(img)\r\n\r\n        # Perform OCR\r\n        results = self.reader.readtext(processed_img, detail=0, paragraph=True)\r\n\r\n        # Join results into a single string\r\n        extracted_text = ' '.join(results)\r\n        return extracted_text\r\n\r\n    @keyword\r\n    def extract_specific_en_text(self, image_path):\r\n        \"\"\"Extracts all English text from the given image with enhanced preprocessing.\"\"\"\r\n        print(f\"Extracting all English text from: {image_path}\")  # Debug statement\r\n        img = cv2.imread(image_path)\r\n        if img is None:\r\n            raise Exception(f\"Failed to load image: {image_path}\")\r\n\r\n        # Convert to grayscale\r\n        gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)\r\n        print(\"Converted image to grayscale.\")  # Debug statement\r\n\r\n        # Apply Gaussian Blur\r\n        blurred = cv2.GaussianBlur(gray, (5, 5), 0)\r\n        print(\"Applied Gaussian Blur.\")  # Debug statement\r\n\r\n        # Apply adaptive thresholding\r\n        processed_image = cv2.adaptiveThreshold(\r\n            blurred, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 11, 2\r\n        )\r\n        print(\"Applied adaptive thresholding.\")  # Debug statement\r\n\r\n        # Use EasyOCR to extract text from the processed image\r\n        result = self.reader_en.readtext(processed_image)\r\n        extracted_text = ' '.join([text[1] for text in result])  # Join all the recognized text strings\r\n\r\n        # Log the extracted text for debugging\r\n        print(f\"Extracted Text: {extracted_text}\")  # Debug statement\r\n\r\n        return extracted_text\r\n\r\n    @keyword\r\n    def extract_all_ar_text(self, image_path):\r\n        \"\"\"Extracts all Arabic text from the given image with enhanced preprocessing.\"\"\"\r\n        print(f\"Extracting all Arabic text from: {image_path}\")\r\n        img = cv2.imread(image_path)\r\n        if img is None:\r\n            raise Exception(f\"Failed to load image: {image_path}\")\r\n\r\n        # Preprocess the image for better OCR performance\r\n        processed_image = self.preprocess_image(img)\r\n\r\n        # Use EasyOCR to extract text from the processed image\r\n        result = self.reader_ar.readtext(processed_image)\r\n        extracted_text = ' '.join([text[1] for text in result])\r\n\r\n        print(f\"Extracted Arabic Text: {extracted_text}\")  # Debug statement\r\n        return extracted_text\r\n\r\n    def load_image(self, image_path):\r\n        \"\"\"Loads an image from the given path.\"\"\"\r\n        img = cv2.imread(image_path)\r\n        if img is None:\r\n            raise FileNotFoundError(f\"Failed to load image: {image_path}\")\r\n        print(\"Loaded image successfully.\")  # Debug statement\r\n        return img\r\n\r\n    def perform_ocr(self, processed_image):\r\n        \"\"\"Performs OCR on the processed image and extracts text.\"\"\"\r\n        result = self.reader_ar.readtext(processed_image)  # Use Arabic reader\r\n        print(f\"Raw OCR Result: {result}\")  # Debug statement\r\n        extracted_text = ' '.join([text[1] for text in result])  # Join all recognized text strings\r\n        print(f\"Extracted Arabic Text: {extracted_text}\")  # Debug statement\r\n        return extracted_text\r\n\r\n    @keyword\r\n    def extract_specific_ar_text(self, image_path):\r\n        \"\"\"Extracts specific Arabic text from the given image with enhanced preprocessing.\"\"\"\r\n        print(f\"Extracting specific Arabic text from: {image_path}\")  # Debug statement\r\n        img = cv2.imread(image_path)\r\n        if img is None:\r\n            raise Exception(f\"Failed to load image: {image_path}\")\r\n\r\n        # Convert to grayscale\r\n        gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)\r\n        print(\"Converted image to grayscale.\")  # Debug statement\r\n\r\n        # Apply Gaussian Blur\r\n        blurred = cv2.GaussianBlur(gray, (5, 5), 0)\r\n        print(\"Applied Gaussian Blur.\")  # Debug statement\r\n\r\n        # Apply adaptive thresholding\r\n        processed_image = cv2.adaptiveThreshold(\r\n            blurred, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 11, 2\r\n        )\r\n        print(\"Applied adaptive thresholding.\")  # Debug statement\r\n\r\n        # Use EasyOCR to extract text from the processed image\r\n        result = self.reader_ar.readtext(processed_image)  # Use Arabic reader\r\n        extracted_text = ' '.join([text[1] for text in result])  # Join all the recognized text strings\r\n\r\n        # Log the extracted text for debugging\r\n        print(f\"Extracted Arabic Text: {extracted_text}\")  # Debug statement\r\n\r\n        return extracted_text\r\n\r\n    def preprocess_image(self, img):\r\n        \"\"\"Preprocess the image to enhance OCR accuracy.\"\"\"\r\n        # Convert to grayscale\r\n        gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)\r\n\r\n        # Denoise the image\r\n        denoised = cv2.fastNlMeansDenoising(gray, None, 30, 7, 21)\r\n\r\n        # Apply CLAHE for contrast enhancement\r\n        clahe = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8, 8))\r\n        equalized = clahe.apply(denoised)\r\n\r\n        # Apply adaptive thresholding\r\n        processed_image = cv2.adaptiveThreshold(\r\n            equalized, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 11, 2\r\n        )\r\n\r\n        return processed_image\r\n\r\n\r\n    def _extract_text(self, image_path, reader):\r\n        \"\"\"Extract and format text using the given EasyOCR reader with optimized settings.\"\"\"\r\n        results = reader.readtext(image_path, detail=1, contrast_ths=0.7, adjust_contrast=0.5)\r\n        merged_rows = self.extract_and_merge_text(results)\r\n        return self.format_rows(merged_rows)\r\n\r\n    def extract_and_merge_text(self, results):\r\n        \"\"\"Extract and merge text from EasyOCR results.\"\"\"\r\n        merged_rows = []\r\n        for (bbox, text, prob) in results:\r\n            if prob >= 0.7:  # Confidence filter\r\n                merged_rows.append(f\"{text} (Confidence: {prob:.2f})\")\r\n        return merged_rows\r\n\r\n    def format_rows(self, rows):\r\n        \"\"\"Format the merged rows into a readable string.\"\"\"\r\n        return '\\n'.join(rows)  # Join rows with newlines\r\n\r\n    @keyword\r\n    def live_image_processing(self):\r\n        \"\"\"Processes a live image feed from the webcam and extracts text.\"\"\"\r\n        cap = cv2.VideoCapture(0)\r\n        time.sleep(2)  # Allow time for the camera to warm up\r\n        ret, frame = cap.read()\r\n        cap.release()\r\n        if ret:\r\n            frame_path = \"temp_frame.jpg\"\r\n            cv2.imwrite(frame_path, frame)  # Save the frame\r\n            return self.extract_all_en_text(frame_path)\r\n        else:\r\n            raise Exception(\"Failed to capture image from webcam\")\r\n\r\n    @keyword\r\n    def take_screenshot_image_processing(self, screenshot_path):\r\n        \"\"\"Captures a screenshot of the current screen and extracts text.\"\"\"\r\n        screen = cv2.VideoCapture(0)\r\n        ret, frame = screen.read()\r\n        if ret:\r\n            cv2.imwrite(screenshot_path, frame)\r\n            return self.extract_all_en_text(screenshot_path)\r\n        else:\r\n            raise Exception(\"Failed to take screenshot\")\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Tests/MobileTests/ocr_library.py b/Tests/MobileTests/ocr_library.py
+--- a/Tests/MobileTests/ocr_library.py	(revision 5bcff67f294a08a5543c0841a281160eea579154)
++++ b/Tests/MobileTests/ocr_library.py	(date 1728282570335)
+@@ -14,6 +14,7 @@
+         # self.reader_en = easyocr.Reader(['en'], gpu=True)  # Enable GPU if available for better performance
+         self.reader_ar = easyocr.Reader(['ar'], gpu=True)
+ 
++    @keyword
+     def extract_all_ar_text(self, image_path):
+         """Extract Arabic text from the given image."""
+         # Load the image
+Index: Resources/Keywords/DragKeyword.robot
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Resources/Keywords/DragKeyword.robot b/Resources/Keywords/DragKeyword.robot
+new file mode 100644
+--- /dev/null	(date 1728283613168)
++++ b/Resources/Keywords/DragKeyword.robot	(date 1728283613168)
+@@ -0,0 +1,30 @@
++*** Settings ***
++Resource  C:\Users\USER\PycharmProjects\ImageprocessingRobot\Resources\Variables\variables.robot
++Library     AppiumLibrary
++
++*** Keywords ***
++Open DragAndDrop Page
++    [Documentation]  Navigate to the Drag and Drop page.
++    Wait Until Element Is Visible    ${DragNavs}    15 seconds
++    Click Element    ${DragNavs}
++
++Drag And Drop Elements
++    [Arguments]    ${DragElement}    ${DropElement}
++    [Documentation]  Perform a drag and drop operation.
++    Wait Until Element Is Visible    ${DragElement}    10 seconds
++    Wait Until Element Is Visible    ${DropElement}    10 seconds
++    Drag And Drop    ${DragElement}    ${DropElement}
++
++DragAndDrop1
++    [Documentation]  Complete Drag and Drop operations using locators.
++    Open DragAndDrop Page
++    Drag And Drop Elements    ${Drag-l1}    ${Drop-l1}
++    Drag And Drop Elements    ${Drag-c1}    ${Drop-c1}
++    Drag And Drop Elements    ${Drag-r1}    ${Drop-r1}
++    Drag And Drop Elements    ${Drag-l2}    ${Drop-l2}
++    Drag And Drop Elements    ${Drag-c2}    ${Drop-c2}
++    Drag And Drop Elements    ${Drag-r2}    ${Drop-r2}
++    Drag And Drop Elements    ${Drag-l3}    ${Drop-l3}
++    Drag And Drop Elements    ${Drag-c3}    ${Drop-c3}
++    Drag And Drop Elements    ${Drag-r3}    ${Drop-r3}
++
+Index: Tests/MobileTests/DemoTest.robot
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Tests/MobileTests/DemoTest.robot b/Tests/MobileTests/DemoTest.robot
+new file mode 100644
+--- /dev/null	(date 1728294154461)
++++ b/Tests/MobileTests/DemoTest.robot	(date 1728294154461)
+@@ -0,0 +1,78 @@
++*** Settings ***
++Resource    ../../Resources/Keywords/AppiumKeywords.robot
++Resource    ../../Resources/Keywords/DragKeyword.robot
++Resource    ../../Resources/Keywords/WebviewKeyword.robot
++Resource    ../../Resources/Keywords/HomePageKeyword.robot
++Resource    ../../Resources/Keywords/SignupKeyword.robot
++Resource    ../../Resources/Keywords/FormsKeyword.robot
++Resource    ../../Resources/Keywords/SwipeKeyword.robot
++Library     AppiumLibrary
++
++
++*** Test Cases ***
++HomePageTest
++    Open Test Application
++    HomePageTest1
++    Close Test Application
++
++WebviewTest
++    Open Test Application
++    WebviewTest1
++    Close Test Application
++
++#Login
++Successful Login with Credentials
++    [Documentation]  Test successful login with valid credentials.
++    Open Test Application
++    Login User    hamzaosailan@hotmail.com    Aa12345678
++    Close Test Application
++
++Invalid Email
++    [Documentation]  Test login with an invalid email format.
++    Open Test Application
++    Empty Email    ''    Aa12345678
++    Close Test Application
++
++Invalid Password
++    [Documentation]  Test login with an invalid password.
++    Open Test Application
++    Empty Password    HamzaOsailan@hotmail.com    ''
++    Close Test Application
++#--Login--
++
++#Register
++Sign up UserTest
++    Open Test Application
++    Sign up User    HamzaOsailan@hotmail.com   123   123
++    Close Test Application
++
++Empty Email SignupTest
++    Open Test Application
++    Empty Email Sigup    w3   3   33
++    Close Test Application
++
++Empty Password SignupTest
++    Open Test Application
++    Empty Password Sigup   w3   3   33
++    Close Test Application
++
++Empty Confirm Password SignupTest
++    Open Test Application
++    Empty Confirm Password Sigup   w3   3   33
++    Close Test Application
++#--Register--
++
++FormsTest
++    Open Test Application
++    Forms1
++    Close Test Application
++
++SwipeTest
++    Open Test Application
++    Swipe1
++    Close Test Application
++
++DragAndDropTest
++    Open Test Application
++    DragAndDrop1
++    Close Test Application
+Index: Resources/locators/locators.robot
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>#*** Variables ***\r\n#${EMAIL_LOCATOR}              xpath=//android.widget.EditText[@content-desc=\"input-email\"]\r\n#${PASSWORD_LOCATOR}           xpath=//android.widget.EditText[@content-desc=\"input-password\"]\r\n#${LOGIN_BUTTON}               //android.view.ViewGroup[@content-desc=\"button-LOGIN\"]/android.view.ViewGroup\r\n#${LOGIN_LOCATOR}              //android.widget.TextView[@text=\"Login\"]\r\n\r\n*** Variables ***\r\n# Navs\r\n#${HomeNavs}        xpath=//android.widget.TextView[@text=\"Login\"]\r\n#${WebviewNavs}     xpath=//androaid.widget.TextView[@text=\"Login\"]\r\n${LoginNavs}       xpath=//android.widget.TextView[@text=\"Login\"]\r\n${SignUpNavs}      xpath=//android.widget.TextView[@text=\"Sign up\"]\r\n${FormsNavs}       xpath=//android.widget.TextView[@text=\"Forms\"]\r\n${SwipeNav}        xpath=//android.widget.TextView[@text=\"Swipe\"]\r\n${DragNavs}        xpath=//android.widget.TextView[@text=\"Drag\"]\r\n${WebviewNavs}     xpath=//android.widget.TextView[@text=\"Webview\"]\r\n\r\n${firstI}          xpath=(//android.view.ViewGroup[@content-desc=\"test-Item\"])[1]/android.view.ViewGroup/android.widget.ImageView\r\n${theFImage}       xpath=//android.view.ViewGroup[@content-desc=\"test-Image Container\"]/android.widget.ImageView\r\n#swipe\r\n${compatibleText}           //android.widget.TextView[@text=\"COMPATIBLE\"]\r\n${compatibleItem}           //android.widget.ScrollView[@content-desc=\"Swipe-screen\"]/android.view.ViewGroup/android.view.ViewGroup[1]\r\n${EXTENDABLE_ITEM}               //android.view.ViewGroup[@content-desc=\"Carousel\"]/android.view.ViewGroup/android.view.ViewGroup[5]/android.view.ViewGroup\r\n\r\n\r\n# Locators for Login\r\n${email}            xpath=//android.widget.EditText[@content-desc=\"input-email\"]\r\n${password}         xpath=//android.widget.EditText[@content-desc=\"input-password\"]\r\n${LOGIN_BUTTON}     //android.view.ViewGroup[@content-desc=\"button-LOGIN\"]/android.view.ViewGroup\r\n${message_success}  //android.widget.TextView[@resource-id=\"android:id/message\"]\r\n\r\n${ErrorEmailMessage}                    xpath=//android.widget.TextView[@text=\"Please enter a valid email address\"]\r\n${ErrorPasswordMessage}                 xpath=//android.widget.TextView[@text=\"Please enter at least 8 characters\"]\r\n\r\n# Locators for Registration\r\n${ConfirmPassword}  xpath=//android.widget.EditText[@content-desc=\"input-repeat-password\"]\r\n${SignUpButton}     xpath=//android.view.ViewGroup[@content-desc=\"button-SIGN UP\"]/android.view.ViewGroup\r\n${message_success_register}  //android.widget.TextView[@resource-id=\"android:id/message\"]\r\n\r\n# Locators for Forms\r\n${Inputfield}              xpath=//android.widget.EditText[@content-desc=\"text-input\"]\r\n${youtyped}                xpath=//android.widget.TextView[@text=\"You have typed:\"]\r\n${SwitchButton}            xpath=//android.widget.Switch[@content-desc=\"switch\"]\r\n${SwitchButtonONoRoFF}     xpath=//android.widget.TextView[@content-desc=\"switch-text\"]\r\n${Dropdown}                xpath=//android.widget.EditText[@resource-id=\"text_input\"]\r\n${ActiveButton}            xpath=//android.view.ViewGroup[@content-desc=\"button-Active\"]/android.view.ViewGroup\r\n\r\n\r\n# Drag and Drop\r\n${Drop-l1}  accessibility_id=drop-l1\r\n${Drop-c1}  accessibility_id=drop-c1\r\n${Drop-r1}  accessibility_id=drop-r1\r\n\r\n${Drop-l2}  accessibility_id=drop-l2\r\n${Drop-c2}  accessibility_id=drop-c2\r\n${Drop-r2}  accessibility_id=drop-r2\r\n\r\n${Drop-l3}  accessibility_id=drop-l3\r\n${Drop-c3}  accessibility_id=drop-c3\r\n${Drop-r3}  accessibility_id=drop-r3\r\n\r\n${Drag-l1}  accessibility_id=drag-l1\r\n${Drag-c1}  accessibility_id=drag-c1\r\n${Drag-r1}  accessibility_id=drag-r1\r\n\r\n${Drag-l2}  accessibility_id=drag-l2\r\n${Drag-c2}  accessibility_id=drag-c2\r\n${Drag-r2}  accessibility_id=drag-r2\r\n\r\n${Drag-l3}  accessibility_id=drag-l3\r\n${Drag-c3}  accessibility_id=drag-c3\r\n${Drag-r3}  accessibility_id=drag-r3\r\n\r\n\r\n#${SwipeToLastElement}     xpath=//android.widget.TextView[@text=\"Swipe\"]\r\n${ScrollDown}    //android.view.View[@text=\"Getting Started\"]\r\n\r\n\r\n\r\n#SwagLabs locators\r\n\r\n${SwagEmail}             xpath=//android.widget.EditText[@content-desc=\"test-Username\"]\r\n${SwagPassword}          xpath=//android.widget.EditText[@content-desc=\"test-Password\"]\r\n${SwagLogin}             xpath=//android.view.ViewGroup[@content-desc=\"test-LOGIN\"]\r\n\r\n${SwagEmailValue}        standard_user\r\n${SwagPasswordValue}        secret_sauce\r\n\r\n${SwagAddToCart}         accessibility_id=test-ADD TO CART\r\n${Cart}                  xpath=//android.view.ViewGroup[@content-desc=\"test-Cart\"]/android.view.ViewGroup/android.widget.ImageView\r\n${Checkout}              xpath=//android.view.ViewGroup[@content-desc=\"test-CHECKOUT\"]\r\n${FirstName}             xpath=//android.widget.EditText[@content-desc=\"test-First Name\"]\r\n${LastName}              xpath=//android.widget.EditText[@content-desc=\"test-Last Name\"]\r\n${Zip/PostalCode}        xpath=//android.widget.EditText[@content-desc=\"test-Zip/Postal Code\"]\r\n${Continue}              xpath=//android.view.ViewGroup[@content-desc=\"test-CONTINUE\"]\r\n${Finish}                xpath=//android.view.ViewGroup[@content-desc=\"test-FINISH\"]\r\n${OCR_Image}             xpath=//android.widget.ScrollView[@content-desc=\"test-CHECKOUT: COMPLETE!\"]/android.view.ViewGroup/android.widget.ImageView.view.ViewGroup/android.widget.ImageView\r\n\r\n\r\n\r\n#shop locators\r\n${GetStarted}            xpath=//android.widget.TextView[@text=\"Webview\"]\r\n${close}                 accessibility_id=Close tab\r\n${skip}                  xpath=//android.widget.Button[@content-desc=\"Skip Get Started\"]\r\n${skip1}                 xpath=//android.widget.Button[@content-desc=\"Skip\"]\r\n${search}                xpath=//android.widget.EditText[@resource-id=\"SEARCH_INPUT\"]\r\n${firstItem}             xpath=(//android.view.ViewGroup[@resource-id=\"PRODUCT_CARD_OVERLAY_ACTION_TEST_ID\"])[1]\r\n${ThePhoto}              xpath=//android.widget.HorizontalScrollView/android.view.ViewGroup/android.view.ViewGroup[2]\r\n${IMAGE_PATH}            C:/Users/USER/PycharmProjects/ImageprocessingRobot/Resources/screenshots/Audi.jpg\r\n\r\n\r\n\r\n\r\n#Photos Xpaths'S\r\n#${BackuTurnOff}               xpath=//android.widget.Button[@resource-id=\"android:id/button2\"]\r\n${photo}                       xpath=//android.view.ViewGroup[@content-desc=\"Photo taken on Sep 16, 2024 2:47:43 PM.\"]\r\n${TurnOff}                     //android.widget.Button[@resource-id=\"com.google.android.apps.photos:id/done_button\"]\r\n${albums}                      //android.widget.Button[@content-desc=\"Albums, tab\"]\r\n${p}                           //android.view.View[@resource-id=\"com.google.android.apps.photos:id/album_cover_view\"]\r\n${p1}                          //android.view.ViewGroup[@content-desc=\"Photo taken on Sep 16, 2024 4:56:36 PM.\"]\r\n\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Resources/locators/locators.robot b/Resources/locators/locators.robot
+--- a/Resources/locators/locators.robot	(revision 5bcff67f294a08a5543c0841a281160eea579154)
++++ b/Resources/locators/locators.robot	(date 1728294629812)
+@@ -78,7 +78,6 @@
+ 
+ 
+ #SwagLabs locators
+-
+ ${SwagEmail}             xpath=//android.widget.EditText[@content-desc="test-Username"]
+ ${SwagPassword}          xpath=//android.widget.EditText[@content-desc="test-Password"]
+ ${SwagLogin}             xpath=//android.view.ViewGroup[@content-desc="test-LOGIN"]
+Index: Resources/Keywords/WebviewKeyword.robot
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Resources/Keywords/WebviewKeyword.robot b/Resources/Keywords/WebviewKeyword.robot
+new file mode 100644
+--- /dev/null	(date 1728285736362)
++++ b/Resources/Keywords/WebviewKeyword.robot	(date 1728285736362)
+@@ -0,0 +1,19 @@
++*** Settings ***
++Library  AppiumLibrary
++Resource  C:\Users\USER\PycharmProjects\ImageprocessingRobot\Resources\Variables\variables.robot
++
++*** Keywords ***
++Open Webview page
++     [Documentation]   Navigate to the Webview Page.
++     Wait Until Element Is Visible    ${DragNavs}    15 seconds
++     Click Element    ${DragNavs}
++
++scrolldown
++     [Documentation]   scrolldown.
++     Wait Until Element Is Visible    ${DragNavs}    15 seconds
++     Click Element    ${DragNavs}
++
++
++WebviewTest1
++      Open Webview page
++      scrolldown
+\ No newline at end of file
+Index: Resources/Keywords/HomePageKeyword.robot
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Resources/Keywords/HomePageKeyword.robot b/Resources/Keywords/HomePageKeyword.robot
+new file mode 100644
+--- /dev/null	(date 1728285032527)
++++ b/Resources/Keywords/HomePageKeyword.robot	(date 1728285032527)
+@@ -0,0 +1,25 @@
++*** Settings ***
++Library     AppiumLibrary
++Resource  C:\Users\USER\PycharmProjects\ImageprocessingRobot\Resources\Variables\variables.robot
++
++*** Keywords ***
++Open Home page
++     [Documentation]   Navigate to the Home Page.
++     Wait Until Element Is Visible    ${DragNavs}    15 seconds
++     Click Element    ${DragNavs}
++
++
++get the title in home
++     [Documentation]   get the title in Page.
++     Wait Until Element Is Visible    locator
++     Element Text Should Be    locator    expected
++
++
++HomePageTest1
++    [Documentation]  Complete HomePage operations using locators.
++    Open Home page
++    get the title in home
++
++
++
++
+Index: Resources/Keywords/LoginKeyword.robot
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Resources/Keywords/LoginKeyword.robot b/Resources/Keywords/LoginKeyword.robot
+new file mode 100644
+--- /dev/null	(date 1728294629821)
++++ b/Resources/Keywords/LoginKeyword.robot	(date 1728294629821)
+@@ -0,0 +1,66 @@
++*** Settings ***
++Resource    C:\Users\USER\PycharmProjects\ImageprocessingRobot\Resources\Keywords\AppiumKeywords.robot
++Resource    C:\Users\USER\PycharmProjects\ImageprocessingRobot\Resources\locators\locators.robot
++
++
++*** Keywords ***
++Open Login Page
++     [Documentation]   Navigate to the Login Page.
++     Wait Until Element Is Visible    ${DragNavs}    15 seconds
++     Click Element    ${DragNavs}
++
++Enter Email
++    [Arguments]  ${emailValue}
++    [Documentation]  Enter the email address in the email input field.
++    Wait Until Element Is Visible    ${email}
++    Input Text    ${email}    ${emailValue}
++
++
++Enter Password
++    [Arguments]  ${passwordValue}
++    [Documentation]  Enter the password in the password input field.
++    Wait Until Element Is Visible    ${password}    15 seconds
++    Input Text    ${password}    ${passwordValue}
++
++
++Click Login Button
++    [Documentation]  Click the login button to submit the login form.
++    Wait Until Element Is Visible    ${LOGIN_BUTTON}    15 seconds
++    Click Element    ${LOGIN_BUTTON}
++
++
++Verify Success Message
++    [Documentation]  Verify the success message is displayed after login.
++    Wait Until Element Is Visible    ${message_success}    15 seconds
++    Element Text Should Be    ${message_success}    You are logged in!
++
++
++Login User
++    [Arguments]  ${email}  ${password}
++    [Documentation]  Complete the login process with the provided credentials.
++    Open Login Page
++    Enter Email    ${email}
++    Enter Password    ${password}
++    Click Login Button
++    Verify Success Message
++
++Empty Email
++    [Arguments]  ${emailValue}  ${passwordValue}
++    [Documentation]  Attempt login with an empty or invalid email.
++    Open Login Page
++    Enter Email   ${emailValue}
++    Enter Password    ${passwordValue}
++    Click Login Button
++    Wait Until Element Is Visible    ${ErrorEmailMessage}    15 seconds
++    Element Text Should Be    ${ErrorEmailMessage}    Please enter a valid email address
++
++Empty Password
++    [Arguments]  ${emailValue}  ${passwordValue}
++    [Documentation]  Attempt login with an empty or invalid password.
++    Open Login Page
++    Enter Email    ${emailValue}
++    Enter Password    ${passwordValue}
++    Click Login Button
++    Wait Until Element Is Visible    ${ErrorPasswordMessage}    15 seconds
++    Element Text Should Be    ${ErrorPasswordMessage}    Please enter at least 8 characters
++
+Index: Resources/Keywords/FormsKeyword.robot
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Resources/Keywords/FormsKeyword.robot b/Resources/Keywords/FormsKeyword.robot
+new file mode 100644
+--- /dev/null	(date 1728291532668)
++++ b/Resources/Keywords/FormsKeyword.robot	(date 1728291532668)
+@@ -0,0 +1,40 @@
++*** Settings ***
++Library  AppiumLibrary
++Resource  C:\Users\USER\PycharmProjects\ImageprocessingRobot\Resources\Variables\variables.robot
++
++*** Keywords ***
++Open Forms Page
++    [Documentation]  open Forms page.
++    Wait Until Element Is Visible    ${formsNav}  15s
++    Click Element    ${formsNav}
++
++Enter Input field
++    [Arguments]  ${inputfieldValue}
++    [Documentation]  enter input field.
++    Wait Until Element Is Visible    ${inputfield}  15s
++    Input Text    ${inputfield}    ${inputfieldValue}
++
++Click Switch Button
++    [Documentation]  click switch button.
++    Wait Until Element Is Visible    ${SwitchButton}  15s
++    Click Element    ${SwitchButton}
++
++Select from Dropdown
++    [Documentation]  select from Dropdown button.
++    Wait Until Element Is Visible    ${Dropdown}  15s
++    Click Element    ${Dropdown}
++
++
++click to Active button
++    [Documentation]  click switch button.
++    Wait Until Element Is Visible    ${ActiveButton}  15s
++    Click Element    ${ActiveButton}
++
++
++
++Forms1
++  Open Forms Page
++  Enter Input field  hamza
++  Click Switch Button
++  Select from Dropdown
++  click to Active button
+Index: Resources/Keywords/SignupKeyword.robot
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Resources/Keywords/SignupKeyword.robot b/Resources/Keywords/SignupKeyword.robot
+new file mode 100644
+--- /dev/null	(date 1728288458853)
++++ b/Resources/Keywords/SignupKeyword.robot	(date 1728288458853)
+@@ -0,0 +1,93 @@
++*** Settings ***
++Library  AppiumLibrary
++Resource  C:\Users\USER\PycharmProjects\ImageprocessingRobot\Resources\Variables\variables.robot
++
++
++*** Keywords ***
++Open Signup Page
++    [Documentation]  open signup page
++    Wait Until Element Is Visible    ${LoginNav}  15s
++    Click Element    ${LoginNav}
++    Wait Until Element Is Visible    ${LoginNav}  15s
++    Click Element    ${SignupNav}
++
++
++Enter Email
++    [Arguments]  ${emailValue}
++    [Documentation]  Enter the email address in the email input field.
++    Wait Until Element Is Visible    ${email}
++    Input Text    ${email}    ${emailValue}
++
++
++
++Enter Password
++    [Arguments]  ${PasswordValue}
++    [Documentation]  Enter the email address in the email input field.
++    Wait Until Element Is Visible    ${email}
++    Input Text    ${email}    ${passwordValue}
++
++
++
++Enter ConfirmPassword
++    [Arguments]  ${ConfirmPasswordValue}
++    [Documentation]  Enter the email address in the email input field.
++    Wait Until Element Is Visible    ${email}
++    Input Text    ${email}    ${ConfirmPasswordValue}
++
++
++Click SIGN UP Button
++    [Documentation]  Click the login button to submit the login form.
++    Wait Until Element Is Visible    ${LOGIN_BUTTON}    15 seconds
++    Click Element    ${LOGIN_BUTTON}
++
++
++Verify Success Message
++    [Documentation]  Verify the success message is displayed after login.
++    Wait Until Element Is Visible    ${message_success}    15 seconds
++    Element Text Should Be    ${message_success}    You are logged in!
++
++
++
++Sign up User
++    [Arguments]  ${email}  ${password}  ${confirmPassword}
++    [Documentation]  Complete the login process with the provided credentials.
++    Open Signup Page
++    Enter Email    ${email}
++    Enter Password    ${password}
++    Enter ConfirmPassword ${confirmPassword}
++    Click SIGN UP Button
++    Verify Success Message
++
++Empty Email Sigup
++    [Arguments]  ${emailValue}  ${passwordValue}  ${confirmPassword}
++    [Documentation]  Attempt login with an empty or invalid email.
++    Open Signup Page
++    Enter Email   ${emailValue}
++    Enter Password    ${passwordValue}
++    Enter ConfirmPassword ${confirmPassword}
++    Click SIGN UP Button
++    Wait Until Element Is Visible    ${ErrorEmailMessage}    15 seconds
++    Element Text Should Be    ${ErrorEmailMessage}    Please enter a valid email address
++
++Empty Password Sigup
++    [Arguments]  ${emailValue}  ${passwordValue}   ${confirmPassword}
++    [Documentation]  Attempt login with an empty or invalid password.
++    Open Signup Page
++    Enter Email    ${emailValue}
++    Enter Password    ${passwordValue}
++    Enter ConfirmPassword ${confirmPassword}
++    Click SIGN UP Button
++    Wait Until Element Is Visible    ${ErrorPasswordMessage}    15 seconds
++    Element Text Should Be    ${ErrorPasswordMessage}    Please enter at least 8 characters
++
++Empty Confirm Password Sigup
++    [Arguments]  ${emailValue}  ${passwordValue}   ${confirmPassword}
++    [Documentation]  Attempt login with an empty or invalid password.
++    Open Signup Page
++    Enter Email    ${emailValue}
++    Enter Password    ${passwordValue}
++    Enter ConfirmPassword ${confirmPassword}
++    Click SIGN UP Button
++    Wait Until Element Is Visible    ${ErrorPasswordMessage}    15 seconds
++    Element Text Should Be    ${ErrorPasswordMessage}    Please enter at least 8 characters
++
+Index: Resources/Variables/variables.robot
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>#*** Variables ***\r\n#${url}             http://localhost:3000/\r\n#${browser}         chrome\r\n\r\n\r\n*** Variables ***\r\n${ANDROID_AUTOMATION_NAME}    UIAutomator2\r\n${ANDROID_PLATFORM_NAME}      Android\r\n${DEVICE_NAME}                Android Emulator\r\n${APP_PACKAGE}                com.google.android.apps.photos\r\n${APP_ACTIVITY}               com.google.android.apps.photos.home.HomeActivity\r\n${APPIUM_SERVER}              http://127.0.0.1:4723\r\n${URL}                        http://localhost:3000/\r\n${BROWSER}                    chrome\r\n${IMAGE_PATH}    C:/Users/USER/PycharmProjects/ImageprocessingRobot/Resources/screenshots/Audi.jpg\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Resources/Variables/variables.robot b/Resources/Variables/variables.robot
+--- a/Resources/Variables/variables.robot	(revision 5bcff67f294a08a5543c0841a281160eea579154)
++++ b/Resources/Variables/variables.robot	(date 1728282442187)
+@@ -7,8 +7,8 @@
+ ${ANDROID_AUTOMATION_NAME}    UIAutomator2
+ ${ANDROID_PLATFORM_NAME}      Android
+ ${DEVICE_NAME}                Android Emulator
+-${APP_PACKAGE}                com.google.android.apps.photos
+-${APP_ACTIVITY}               com.google.android.apps.photos.home.HomeActivity
++${APP_PACKAGE}                com.wdiodemoapp
++${APP_ACTIVITY}               com.wdiodemoapp.MainActivity
+ ${APPIUM_SERVER}              http://127.0.0.1:4723
+ ${URL}                        http://localhost:3000/
+ ${BROWSER}                    chrome
+Index: Resources/Keywords/SwipeKeyword.robot
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Resources/Keywords/SwipeKeyword.robot b/Resources/Keywords/SwipeKeyword.robot
+new file mode 100644
+--- /dev/null	(date 1728292492100)
++++ b/Resources/Keywords/SwipeKeyword.robot	(date 1728292492100)
+@@ -0,0 +1,27 @@
++*** Settings ***
++Library  AppiumLibrary
++Library    C:/Users/USER/PycharmProjects/ImageprocessingRobot/ocr_library.py
++
++*** Keywords ***
++Open Swipe Page
++    [Documentation]  open Swipe Page.
++    Wait Until Element Is Visible    ${swipeNav}  15s
++    Click Element    ${swipeNav}
++
++Swipe To Right Side
++   [Documentation]  swipe to left side.
++   Swipe    start_x    start_y    offset_x    offset_y
++
++
++Swipe To Left Side
++   [Documentation]  swipe to left side.
++   Swipe    start_x    start_y    offset_x    offset_y
++
++
++
++
++Swipe1
++    [Documentation]  Swipe to left and right.
++     Open Swipe Page
++     Swipe To Right Side
++     Swipe To Left Side
+Index: Tests/MobileTests/LoginTest.robot
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Tests/MobileTests/LoginTest.robot b/Tests/MobileTests/LoginTest.robot
+new file mode 100644
+--- /dev/null	(date 1728294262596)
++++ b/Tests/MobileTests/LoginTest.robot	(date 1728294262596)
+@@ -0,0 +1,9 @@
++*** Settings ***
++Resource    ../../Resources/Keywords/SignupKeyword.robot
++Resource    C:\Users\USER\PycharmProjects\ImageprocessingRobot\Resources\Keywords\AppiumKeywords.robot
++
++*** Test Cases ***
++LoginTest
++    Open Test Application
++    Sign up User    HamzaOsailan@hotmail.com   123   123
++    Close Test Application
